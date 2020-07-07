@@ -1,2 +1,2 @@
 # tensorflow-image-recognition
-A basic image recognition algorithm using tensorflow
+A basic image recognition algorithm using tensorflow.
